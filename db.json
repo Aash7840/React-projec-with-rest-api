@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Salman khan",
+      "username": "Elwyn.Skiles king khan",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "name": "Vahid Khan",
+      "username": "aquibkhan 786",
+      "email": "rajputboy.aashu@gmail.com",
+      "phone": "9719156149",
+      "website": "ebbaze.com",
+      "id": 9
+    },
+    {
+      "name": "Shahrukh khan",
+      "username": "king khan",
+      "email": "shahrukhkhan@gmail.com",
+      "phone": "786-789-769-6",
+      "website": "shahrukhkhan.org",
+      "id": 10
+    },
+    {
+      "name": "prateek bali",
+      "username": "prateekbali prince",
+      "email": "princebali@gmail.com",
+      "phone": "412-563-5624",
+      "website": "prateekbali.com",
+      "id": 13
+    },
+    {
+      "name": "Vahid khan",
+      "username": "Vahid-Zahid-Ali",
+      "email": "rajputboy.aashu@gmail.com",
+      "phone": "9719156149",
+      "website": "ebbaze.com",
+      "id": 14
+    }
+  ]
+}
